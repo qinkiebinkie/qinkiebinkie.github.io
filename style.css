@@ -58,7 +58,7 @@ img {
 
 
 #NavBar{
-	background-color: #173979B3;
+	background-color: #351992;
 	margin: 10px 10px 50px 10px;
 	width: 90%;
 	font-size: 24px;
@@ -91,7 +91,7 @@ img {
 }
 
 #NavBar a:hover {
-  background: #314872;
+  background: #301686;
 }
 
 #Main {
